@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+My introduction to using GitHub's features
 
 ## What it does
-
-FEATURES PLACEHOLDER
+This allows you to install a welcome BOT
 
 ## Getting started
 
